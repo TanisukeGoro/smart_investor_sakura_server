@@ -1,0 +1,70 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    width: 1440px;
+    height: 80px;
+    background-color: #2699FB;
+}
+.header_nav{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.header_nav p{
+    font-size: 17px;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.header_nav p a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.mein_top_text01_eara{
+    width: 104px;
+    height: 35px;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 26px;
+}
+.mein_top_text02_eara{
+    width: 1300px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 1%;
+}
+.mein_rank01{
+    width: 1250px;
+    height: 80px;
+    border: 1px solid #2699FB;
+    margin: 0 auto;
+    margin-top: 2%;
+    display: flex;
+}
+.mein_rank01_number{
+    width: 80px;
+    height: 80px;
+    background-color: #28a745;
+}
+.mein_rank01_number p{
+    color: #ffffff;
+    font-size: 75px;
+    width: 50px;
+    margin: 0 auto;
+}
+.mein_rank01_number_text{
+    width: 1000px;
+    display: flex;
+    margin: 0 auto;
+}
+.mein_rank01_number_text p{
+    font-size: 40px;
+    margin-left: 40px;
+    margin-top: 2%;
+}
+.footer{
+    width: 1440px;
+    height: 100px;
+    background-color: #2699FB;
+    margin-top: 115px;
+}

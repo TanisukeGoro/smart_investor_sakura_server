@@ -1,0 +1,118 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    width: 1440px;
+    height: 80px;
+    background-color: #2699FB;
+}
+.header_nav{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.header_nav p{
+    font-size: 17px;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.header_nav p a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.mein{
+    height: 610px;
+}
+.serch_title{
+    width: 260px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 445px;
+    font-size: 20px;
+}
+.serchi_input{
+    width: 465px;
+    height: 40px;
+    border: 1px solid #000;
+}
+.link_text{
+    width: 60px;
+    height: 44px;
+    background-color:#2699FB;
+    text-align: center;
+}
+.link_text a{
+    color: #fff;
+    display: inline-block;
+    padding-top: 10px;
+    font-size: 20px;
+    text-decoration-line: none;
+}
+.mein02{
+    width: 600px;
+    margin: 0 auto;
+    border-top: 1px solid #000;
+    margin-top: 60px;
+    width: 1200px;
+}
+.mein02_title{
+    width: 180px;
+    font-size: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.suisan{
+    width: 140px;
+    line-height: 2;
+}
+.suisan a{
+    text-decoration: none;
+    color: #707070;
+}
+.kagaku{
+    width: 160px;
+    line-height: 2;
+}
+.kagaku a{
+    text-decoration: none;
+    color: #707070;
+}
+.hitetu{
+    width: 130px;
+    line-height: 2;
+}
+.hitetu a{
+    text-decoration: none;
+    color: #707070;
+}
+.sonota{
+    width: 150px;
+    line-height: 2;
+}
+.sonota a{
+    text-decoration: none;
+    color: #707070;
+}
+.tuusin{
+    width: 180px;
+    line-height: 2;
+}
+.tuusin a{
+    text-decoration: none;
+    color: #707070;
+}
+.kinyuu{
+    width: 180px;
+    line-height: 2;
+}
+.kinyuu a{
+    text-decoration: none;
+    color: #707070;
+}
+.footer{
+    width: 1440px;
+    height: 100px;
+    background-color: #2699FB;
+    margin-top: 0px;
+}

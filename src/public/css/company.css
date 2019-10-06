@@ -1,0 +1,166 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    width: 1440px;
+    height: 80px;
+    background-color: #2699FB;
+}
+.header_nav{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.header_nav p{
+    font-size: 17px;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.header_nav p a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.mein{
+    height: 2200px;
+}
+.kaisya_name{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.syoukai_text{
+    width: 1350px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.grf-aria01{
+    display: flex;
+    width: 1260px;
+    margin: 0 auto;
+}
+.rieki-grf-aria{
+    width: 570px;
+    height: 310px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.rieki-grf-text{
+    text-align: center;
+    font-size: 20px;
+}
+.rireki-grf{
+    width: 560px;
+    height: 280px;
+    border: 1px solid #000000;
+    display: inline-block;
+    padding-top: 12px;
+    padding-left: 8px;
+    margin-top:20px;
+}
+.table-area01{
+    width: 1200px;
+    height: 380px;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+.table-area01 p{
+    display: inline-block;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.table-top{
+    background-color: #004C7F;
+    color: #ffffff;
+}
+td {
+	border: solid 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.kabuka_suii{
+    width: 1200px;
+    height: 400px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+}
+.kabuka_suii p{
+    padding: 25px;
+    font-size: 20px;
+}
+.kabuka_suii img{
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+.sihyou-tabl-area{
+    width: 1000px;
+    height: 545px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.sihyou-tabl-area p{
+    font-size: 20px;
+    width: 40px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.table02{
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.table-top02{
+    background-color: #004C7F;
+    color: #ffffff;
+}
+.syumi-aria{
+    width: 1200px;
+    height: 720px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.syumi-title{
+    font-size: 35px;
+    font-weight: bold;
+}
+.syumi-text01{
+    font-size: 25px;
+    margin: 15px;
+}
+.syumi-text02{
+    font-size: 25px;
+    margin: 15px;
+}
+.syumi-text03{
+    font-size: 25px;
+    margin: 15px;
+}
+.btn-square{
+    border: 1px solid #000;
+    text-decoration: none;
+    color: #000000;
+    width: 100px;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    margin: 10px;
+} 
+.footer{
+    width: 1440px;
+    height: 100px;
+    background-color: #2699FB;
+    margin-top: 0px;
+}

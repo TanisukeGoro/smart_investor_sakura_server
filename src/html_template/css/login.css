@@ -1,0 +1,64 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    width: 1440px;
+    height: 80px;
+    background-color: #2699FB;
+}
+.header_nav{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.header_nav p{
+    font-size: 17px;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.header_nav p a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.mein{
+    height: 600px;
+}
+.login_area{
+    width: 675px;
+    height: 560px;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.username{
+    font-size: 50px;
+    color: #707070;
+    margin-top: 130px;
+}
+.pass{
+    font-size: 50px;
+    color: #707070;
+}
+.lagin_btn{
+    width: 300px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.btn_text{
+    display: inline-block;
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+    padding-top: 8px;
+}
+.footer{
+    width: 1440px;
+    height: 100px;
+    background-color: #2699FB;
+    margin-top: 0px;
+}
